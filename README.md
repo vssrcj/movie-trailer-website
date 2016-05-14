@@ -1,4 +1,4 @@
-# Project 1
+# Movie Trailer Website
 
 *By [CJ](https://github.com/vssrcj)*
 
